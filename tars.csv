@@ -1,23 +1,590 @@
 Threat Actor Name,Naming Entity,Date,Reference
-APT38,FireEye,2018-10-03,https://www.fireeye.com/blog/threat-research/2018/10/apt38-details-on-new-north-korean-regime-backed-threat-group.html
-TEMP.Hermit,FireEye,2018-10-03,https://www.fireeye.com/blog/threat-research/2018/10/apt38-details-on-new-north-korean-regime-backed-threat-group.html
-XENOTIME,Dragos,2018-05-24,https://dragos.com/blog/20180524Xenotime.html
-ELECTRUM,Dragos,2017-06-12,https://dragos.com/blog/crashoverride/
-Lazarus Group,Novetta,2016-02-24,https://www.operationblockbuster.com/wp-content/uploads/2016/02/Operation-Blockbuster-Report.pdf
-GreyEnergy,ESET,2018-10-17,https://www.welivesecurity.com/2018/10/17/greyenergy-updated-arsenal-dangerous-threat-actors/
-BlackEnergy,ESET,2018-10-17,https://www.welivesecurity.com/2018/10/17/greyenergy-updated-arsenal-dangerous-threat-actors/
-Telebots,ESET,2018-10-17,https://www.welivesecurity.com/2018/10/17/greyenergy-updated-arsenal-dangerous-threat-actors/
-Duqu,Kaspersky,2015-06-10,https://securelist.com/the-mystery-of-duqu-2-0-a-sophisticated-cyberespionage-actor-returns/70504/
-Narwhal Spider,CrowdStrike,2018-10-25,https://www.crowdstrike.com/blog/cutwail-spam-campaign-uses-steganography-to-distribute-urlzone/
-Wizard Spider,CrowdStrike,2018-10-25,https://www.crowdstrike.com/blog/cutwail-spam-campaign-uses-steganography-to-distribute-urlzone/
-Bamboo Spider,CrowdStrike,2018-10-25,https://www.crowdstrike.com/blog/cutwail-spam-campaign-uses-steganography-to-distribute-urlzone/
-TEMP.Veles,FireEye,2018-10-23,https://www.fireeye.com/blog/threat-research/2018/10/triton-attribution-russian-government-owned-lab-most-likely-built-tools.html
-Lazarus Group,Talos,2018-10-30,https://www.virusbulletin.com/virusbulletin/2018/10/vb2018-paper-who-wasnt-responsible-olympic-destroyer/
-Bluenoroff Group,Talos,2018-10-30,https://www.virusbulletin.com/virusbulletin/2018/10/vb2018-paper-who-wasnt-responsible-olympic-destroyer/
-Group 77,Talos,2018-10-30,https://www.virusbulletin.com/virusbulletin/2018/10/vb2018-paper-who-wasnt-responsible-olympic-destroyer/
-APT3,Intezer,2018-02-12,http://www.intezer.com/2018-winter-cyber-olympics-code-similarities-cyber-attacks-pyeongchang/
-APT10,Intezer,2018-02-12,http://www.intezer.com/2018-winter-cyber-olympics-code-similarities-cyber-attacks-pyeongchang/
-APT10,FireEye,2017-04-06,https://www.fireeye.com/blog/threat-research/2017/04/apt10_menupass_grou.html
-MenuPass Group,FireEye,2017-04-06,https://www.fireeye.com/blog/threat-research/2017/04/apt10_menupass_grou.html
+1.php Group,TODO,TODO,TODO
+2889,TODO,TODO,TODO
+4HCrew,TODO,TODO,TODO
+admin@338,TODO,TODO,TODO
+Admin338,TODO,TODO,TODO
+Advanced Persistent Threat 1,TODO,TODO,TODO
+Ajax Security Team,TODO,TODO,TODO
+AjaxSecurityTeam,TODO,TODO,TODO
+Alibaba,TODO,TODO,TODO
+ALLANITE,TODO,TODO,TODO
+ALUMINUM,TODO,TODO,TODO
+Ambiorx,TODO,TODO,TODO
+Anchor Panda,TODO,TODO,TODO
+Andariel,TODO,TODO,TODO
+Andromeda Spider,TODO,TODO,TODO
+Anger Bear,TODO,TODO,TODO
+Animal Farm,TODO,TODO,TODO
+Anunak,TODO,TODO,TODO
+Appin,TODO,TODO,TODO
 APT10,BAE Systems,2017-04-03,https://baesystemsai.blogspot.com/2017/04/apt10-operation-cloud-hopper_3.html
+APT10,FireEye,2017-04-06,https://www.fireeye.com/blog/threat-research/2017/04/apt10_menupass_grou.html
+APT10,Intezer,2018-02-12,http://www.intezer.com/2018-winter-cyber-olympics-code-similarities-cyber-attacks-pyeongchang/
 APT10,PWC,2017-04-00,https://www.pwc.co.uk/issues/cyber-security-data-privacy/insights/operation-cloud-hopper.html
+APT12,TODO,TODO,TODO
+APT14,TODO,TODO,TODO
+APT15,TODO,TODO,TODO
+APT17,TODO,TODO,TODO
+APT18,TODO,TODO,TODO
+APT19,TODO,TODO,TODO
+APT1,TODO,TODO,TODO
+APT20,TODO,TODO,TODO
+APT22,TODO,TODO,TODO
+APT23,TODO,TODO,TODO
+APT26,TODO,TODO,TODO
+APT27,TODO,TODO,TODO
+APT28,TODO,TODO,TODO
+APT29,TODO,TODO,TODO
+APT2,TODO,TODO,TODO
+APT30,TODO,TODO,TODO
+APT.3102,TODO,TODO,TODO
+APT32,TODO,TODO,TODO
+APT33,TODO,TODO,TODO
+APT34,TODO,TODO,TODO
+APT35,TODO,TODO,TODO
+APT37,TODO,TODO,TODO
+APT38,FireEye,2018-10-03,https://www.fireeye.com/blog/threat-research/2018/10/apt38-details-on-new-north-korean-regime-backed-threat-group.html
+APT3,Intezer,2018-02-12,http://www.intezer.com/2018-winter-cyber-olympics-code-similarities-cyber-attacks-pyeongchang/
+APT4,TODO,TODO,TODO
+APT5,TODO,TODO,TODO
+APT6,TODO,TODO,TODO
+APT8,TODO,TODO,TODO
+APT9,TODO,TODO,TODO
+APT-C-00,TODO,TODO,TODO
+APT-C-23,TODO,TODO,TODO
+APT-C-35,TODO,TODO,TODO
+APT.Naikon,TODO,TODO,TODO
+Arid Viper,TODO,TODO,TODO
+AridViper,TODO,TODO,TODO
+Aslan Neferler Tim,TODO,TODO,TODO
+Aurora Panda,TODO,TODO,TODO
+Axiom,TODO,TODO,TODO
+Bahamut,TODO,TODO,TODO
+Bamboo Spider,CrowdStrike,2018-10-25,https://www.crowdstrike.com/blog/cutwail-spam-campaign-uses-steganography-to-distribute-urlzone/
+Barium,TODO,TODO,TODO
+BeeBus,TODO,TODO,TODO
+Beijing Group,TODO,TODO,TODO
+Berserk Bear,TODO,TODO,TODO
+Berserker Bear,TODO,TODO,TODO
+Big Panda,TODO,TODO,TODO
+Black Energy,ESET,2018-10-17,https://www.welivesecurity.com/2018/10/17/greyenergy-updated-arsenal-dangerous-threat-actors/
+BlackEnergy,ESET,2018-10-17,https://www.welivesecurity.com/2018/10/17/greyenergy-updated-arsenal-dangerous-threat-actors/
+Blackfly,TODO,TODO,TODO
+Black Vine,TODO,TODO,TODO
+Bluenoroff Group,Talos,2018-10-30,https://www.virusbulletin.com/virusbulletin/2018/10/vb2018-paper-who-wasnt-responsible-olympic-destroyer/
+Bluenoroff,Talos,2018-10-30,https://www.virusbulletin.com/virusbulletin/2018/10/vb2018-paper-who-wasnt-responsible-olympic-destroyer/
+Blue Termite,TODO,TODO,TODO
+Boulder Bear,TODO,TODO,TODO
+Boyusec,TODO,TODO,TODO
+Bronze Butler,TODO,TODO,TODO
+Bronze Union,TODO,TODO,TODO
+Brown Fox,TODO,TODO,TODO
+Buckeye,TODO,TODO,TODO
+BuhTrap,TODO,TODO,TODO
+Bureau 121,TODO,TODO,TODO
+Butterfly,TODO,TODO,TODO
+Byzantine Candor,TODO,TODO,TODO
+C0d0so,TODO,TODO,TODO
+Cadelle,TODO,TODO,TODO
+Calc Team,TODO,TODO,TODO
+Callisto,TODO,TODO,TODO
+Camerashy,TODO,TODO,TODO
+Carbanak,TODO,TODO,TODO
+Carbon Spider,TODO,TODO,TODO
+Careto,TODO,TODO,TODO
+CCA,TODO,TODO,TODO
+Chafer,TODO,TODO,TODO
+Charming Kitten,TODO,TODO,TODO
+Chinastrats,TODO,TODO,TODO
+CHRYSENE,TODO,TODO,TODO
+Cleaver,TODO,TODO,TODO
+Clever Kitten,TODO,TODO,TODO
+Cloud Atlas,TODO,TODO,TODO
+Cloud Hopper,TODO,TODO,TODO
+Cloudy Omega,TODO,TODO,TODO
+C-Major,TODO,TODO,TODO
+Cobalt Dickens,TODO,TODO,TODO
+COBALT DICKENS,TODO,TODO,TODO
+Cobalt gang,TODO,TODO,TODO
+Cobalt group,TODO,TODO,TODO
+Cobalt Gypsy,TODO,TODO,TODO
+Cobalt Kitty,TODO,TODO,TODO
+Cobalt,TODO,TODO,TODO
+Codoso,TODO,TODO,TODO
+Comment Crew,TODO,TODO,TODO
+Comment Group,TODO,TODO,TODO
+Comment Panda,TODO,TODO,TODO
+CopyKittens,TODO,TODO,TODO
+CorporacaoXRat,TODO,TODO,TODO
+CorporationXRat,TODO,TODO,TODO
+Corsair Jackal,TODO,TODO,TODO
+COVELLITE,TODO,TODO,TODO
+Covert Grove,TODO,TODO,TODO
+Cozer,TODO,TODO,TODO
+Cozy Bear,TODO,TODO,TODO
+CozyBear,TODO,TODO,TODO
+CozyCar,TODO,TODO,TODO
+Cozy Duke,TODO,TODO,TODO
+CozyDuke,TODO,TODO,TODO
+Crambus,TODO,TODO,TODO
+Crescent and Star,TODO,TODO,TODO
+Crimson Iron,TODO,TODO,TODO
+Crouching Yeti,TODO,TODO,TODO
+CrouchingYeti,TODO,TODO,TODO
+Cutting Kitten,TODO,TODO,TODO
+CVNX,TODO,TODO,TODO
+Cyber Berkut,TODO,TODO,TODO
+Cyber Caliphate Army,TODO,TODO,TODO
+CyberCaliphate,TODO,TODO,TODO
+Cyber fighters of Izz Ad-Din Al Qassam,TODO,TODO,TODO
+Cycldek,TODO,TODO,TODO
+Dagger Panda,TODO,TODO,TODO
+Dancing Salome,TODO,TODO,TODO
+Danti,TODO,TODO,TODO
+Dark Caracal,TODO,TODO,TODO
+DarkHotel,TODO,TODO,TODO
+DarkHydrus,TODO,TODO,TODO
+Dark Seoul,TODO,TODO,TODO
+DD4BC,TODO,TODO,TODO
+Deadeye Jackal,TODO,TODO,TODO
+Deep Panda,TODO,TODO,TODO
+Deputy Dog,TODO,TODO,TODO
+Desert Falcon,TODO,TODO,TODO
+Dextorous Spider,TODO,TODO,TODO
+Dizzy Panda,TODO,TODO,TODO
+DNSCalc,TODO,TODO,TODO
+Dogfish,TODO,TODO,TODO
+Domestic Kitten,TODO,TODO,TODO
+DoNot Team,TODO,TODO,TODO
+Dragonfly2,TODO,TODO,TODO
+Dragonfly,TODO,TODO,TODO
+DragonOK,TODO,TODO,TODO
+Dropping Elephant,TODO,TODO,TODO
+DUBNIUM,TODO,TODO,TODO
+Dukes,TODO,TODO,TODO
+Duqu Group,Kaspersky,2015-06-10,https://securelist.com/the-mystery-of-duqu-2-0-a-sophisticated-cyberespionage-actor-returns/70504/
+Duqu,Kaspersky,2015-06-10,https://securelist.com/the-mystery-of-duqu-2-0-a-sophisticated-cyberespionage-actor-returns/70504/
+Dust Storm,TODO,TODO,TODO
+DustStorm,TODO,TODO,TODO
+DYMALLOY,TODO,TODO,TODO
+Dynamite Panda,TODO,TODO,TODO
+DynCalc,TODO,TODO,TODO
+Electric Panda,TODO,TODO,TODO
+ELECTRUM,Dragos,2017-06-12,https://dragos.com/blog/crashoverride/
+Elise,TODO,TODO,TODO
+El Machete,TODO,TODO,TODO
+Eloquent Panda,TODO,TODO,TODO
+Emdivi,TODO,TODO,TODO
+Emissary Panda,TODO,TODO,TODO
+Energetic Bear,TODO,TODO,TODO
+EQGRP,TODO,TODO,TODO
+Equation Group,TODO,TODO,TODO
+Eslie,TODO,TODO,TODO
+EuroAPT,TODO,TODO,TODO
+EvilPost,TODO,TODO,TODO
+EvilTraffic,TODO,TODO,TODO
+Extreme Jackal,TODO,TODO,TODO
+FallagaTeam,TODO,TODO,TODO
+Fallout Team,TODO,TODO,TODO
+Fancy Bear,TODO,TODO,TODO
+FASTCash,TODO,TODO,TODO
+FIN4,TODO,TODO,TODO
+FIN6,TODO,TODO,TODO
+FIN7,TODO,TODO,TODO
+FIN8,TODO,TODO,TODO
+Flowerlady/Flowershow,TODO,TODO,TODO
+Flowerlady,TODO,TODO,TODO
+Flowershow,TODO,TODO,TODO
+Flying Kitten,TODO,TODO,TODO
+Foxy Panda,TODO,TODO,TODO
+Fraternal Jackal,TODO,TODO,TODO
+FruityArmor,TODO,TODO,TODO
+Gamaredon Group,TODO,TODO,TODO
+Gaza cybergang,TODO,TODO,TODO
+Gaza Hackers Team,TODO,TODO,TODO
+GCMAN,TODO,TODO,TODO
+Getkys,TODO,TODO,TODO
+Ghambar,TODO,TODO,TODO
+Ghost Jackal,TODO,TODO,TODO
+Gibberish Panda,TODO,TODO,TODO
+GIF89a,TODO,TODO,TODO
+Goblin Panda,TODO,TODO,TODO
+GOP,TODO,TODO,TODO
+Gothic Panda,TODO,TODO,TODO
+Greenbug,TODO,TODO,TODO
+GREF,TODO,TODO,TODO
+GreyEnergy,ESET,2018-10-17,https://www.welivesecurity.com/2018/10/17/greyenergy-updated-arsenal-dangerous-threat-actors/
+Groundbait,TODO,TODO,TODO
+Group 100,TODO,TODO,TODO
+Group 123,TODO,TODO,TODO
+Group 13,TODO,TODO,TODO
+Group 22,TODO,TODO,TODO
+Group 24,TODO,TODO,TODO
+Group 26,TODO,TODO,TODO
+Group 27,TODO,TODO,TODO
+Group 35,TODO,TODO,TODO
+Group 36,TODO,TODO,TODO
+Group 3,TODO,TODO,TODO
+Group-4127,TODO,TODO,TODO
+Group 41,TODO,TODO,TODO
+Group 42,TODO,TODO,TODO
+Group 6,TODO,TODO,TODO
+Group 72,TODO,TODO,TODO
+Group 74,TODO,TODO,TODO
+Group 77,Talos,2018-10-30,https://www.virusbulletin.com/virusbulletin/2018/10/vb2018-paper-who-wasnt-responsible-olympic-destroyer/
+Group 83,TODO,TODO,TODO
+Group 88,TODO,TODO,TODO
+Group 8,TODO,TODO,TODO
+Guardian of Peace,TODO,TODO,TODO
+Hammer Panda,TODO,TODO,TODO
+Hammer Toss,TODO,TODO,TODO
+happyyongzi,TODO,TODO,TODO
+Hastati Group,TODO,TODO,TODO
+Havex,TODO,TODO,TODO
+Hellsing,TODO,TODO,TODO
+HenBox,TODO,TODO,TODO
+Hidden Cobra,TODO,TODO,TODO
+Hidden Lynx,TODO,TODO,TODO
+Hippo Team,TODO,TODO,TODO
+HIPPOTeam,TODO,TODO,TODO
+HOGFISH,TODO,TODO,TODO
+HummingBad,TODO,TODO,TODO
+Hurricane Panda,TODO,TODO,TODO
+Ice Fog,TODO,TODO,TODO
+IceFog,TODO,TODO,TODO
+iKittens,TODO,TODO,TODO
+Impersonating Panda,TODO,TODO,TODO
+Inception Framework,TODO,TODO,TODO
+Infy,TODO,TODO,TODO
+Iron Cyber Group,TODO,TODO,TODO
+Iron Group,TODO,TODO,TODO
+Iron Tiger APT,TODO,TODO,TODO
+Iron Tiger,TODO,TODO,TODO
+IRON TWILIGHT,TODO,TODO,TODO
+Islamic State Hacking Division,TODO,TODO,TODO
+ITSecTeam,TODO,TODO,TODO
+IXESHE,TODO,TODO,TODO
+JerseyMikes,TODO,TODO,TODO
+Karba,TODO,TODO,TODO
+Karma Panda,TODO,TODO,TODO
+Ke3Chang,TODO,TODO,TODO
+KeyBoy,TODO,TODO,TODO
+Keyhole Panda,TODO,TODO,TODO
+Kimsuki,TODO,TODO,TODO
+Kimsuky,TODO,TODO,TODO
+Koala Team,TODO,TODO,TODO
+KRYPTON,TODO,TODO,TODO
+KungFu Kittens,TODO,TODO,TODO
+Labyrinth Chollima,TODO,TODO,TODO
+LadyBoyle,TODO,TODO,TODO
+Lamberts,TODO,TODO,TODO
+Lazarus Group,Novetta,2016-02-24,https://www.operationblockbuster.com/wp-content/uploads/2016/02/Operation-Blockbuster-Report.pdf
+Lazarus Group,Talos,2018-10-30,https://www.virusbulletin.com/virusbulletin/2018/10/vb2018-paper-who-wasnt-responsible-olympic-destroyer/
+Lazarus,TODO,TODO,TODO
+Lead,TODO,TODO,TODO
+LeafMiner,TODO,TODO,TODO
+Leviathan,TODO,TODO,TODO
+Libyan Scorpions,TODO,TODO,TODO
+Lion Soldiers Team,TODO,TODO,TODO
+Longhorn,TODO,TODO,TODO
+Lotus Blossom,TODO,TODO,TODO
+Lotus Panda,TODO,TODO,TODO
+LuckyMouse,TODO,TODO,TODO
+Luder,TODO,TODO,TODO
+Lurid,TODO,TODO,TODO
+Machete,TODO,TODO,TODO
+Madi,TODO,TODO,TODO
+MageCart,TODO,TODO,TODO
+Magic Hound,TODO,TODO,TODO
+Magic Kitten,TODO,TODO,TODO
+MAGNALLIUM,TODO,TODO,TODO
+MAGNESIUM,TODO,TODO,TODO
+Magnetic Spider,TODO,TODO,TODO
+Malware reusers,TODO,TODO,TODO
+Mana Team,TODO,TODO,TODO
+MANGANESE,TODO,TODO,TODO
+Mask,TODO,TODO,TODO
+Maverick Panda,TODO,TODO,TODO
+MenuPass,FireEye,2017-04-06,https://www.fireeye.com/blog/threat-research/2017/04/apt10_menupass_grou.html
+Metushy,TODO,TODO,TODO
+Microcin,TODO,TODO,TODO
+Minidionis,TODO,TODO,TODO
+Mirage,TODO,TODO,TODO
+Moafee,TODO,TODO,TODO
+Mofang,TODO,TODO,TODO
+Molerats,TODO,TODO,TODO
+MoneyTaker,TODO,TODO,TODO
+Monsoon,TODO,TODO,TODO
+Moonlight,TODO,TODO,TODO
+Morpho,TODO,TODO,TODO
+MSUpdater,TODO,TODO,TODO
+MuddyWater,TODO,TODO,TODO
+Mustang Panda,TODO,TODO,TODO
+Mythic Leopard,TODO,TODO,TODO
+Naikon,TODO,TODO,TODO
+Narwhal Spider,CrowdStrike,2018-10-25,https://www.crowdstrike.com/blog/cutwail-spam-campaign-uses-steganography-to-distribute-urlzone/
+Nemim,TODO,TODO,TODO
+NEODYMIUM,TODO,TODO,TODO
+NetTraveler,TODO,TODO,TODO
+NewRomanic Cyber Army Team,TODO,TODO,TODO
+Newsbeef,TODO,TODO,TODO
+Newscaster Team,TODO,TODO,TODO
+Newscaster,TODO,TODO,TODO
+Nexus Zeta,TODO,TODO,TODO
+Night Dragon,TODO,TODO,TODO
+Nightshade Panda,TODO,TODO,TODO
+Nitro,TODO,TODO,TODO
+Numbered Panda,TODO,TODO,TODO
+OceanLotus Group,TODO,TODO,TODO
+Ocean Lotus,TODO,TODO,TODO
+Office Monkeys,TODO,TODO,TODO
+OfficeMonkeys,TODO,TODO,TODO
+OilRig,TODO,TODO,TODO
+OnionDog,TODO,TODO,TODO
+Operation AppleJeus,TODO,TODO,TODO
+Operation BugDrop,TODO,TODO,TODO
+Operation Cleaver,TODO,TODO,TODO
+Operation C-Major,TODO,TODO,TODO
+Operation DarkSeoul,TODO,TODO,TODO
+Operation Daybreak,TODO,TODO,TODO
+Operation Erebus,TODO,TODO,TODO
+Operation Erebus.,TODO,TODO,TODO
+Operation EvilTraffic,TODO,TODO,TODO
+Operation GhostSecret,TODO,TODO,TODO
+OperationHangover,TODO,TODO,TODO
+Operation Iron Tiger,TODO,TODO,TODO
+Operation Mermaid,TODO,TODO,TODO
+Operation Molerats,TODO,TODO,TODO
+Operation Parliament,TODO,TODO,TODO
+Operation Tropic Trooper,TODO,TODO,TODO
+Operation Troy,TODO,TODO,TODO
+OperationTroy,TODO,TODO,TODO
+Operation Woolen Goldfish,TODO,TODO,TODO
+Operation Woolen-Goldfish,TODO,TODO,TODO
+Orangeworm,TODO,TODO,TODO
+Override Panda,TODO,TODO,TODO
+Pacifier APT,TODO,TODO,TODO
+Packrat,TODO,TODO,TODO
+Pale Panda,TODO,TODO,TODO
+Palmetto Fusion,TODO,TODO,TODO
+Parastoo,TODO,TODO,TODO
+PassCV,TODO,TODO,TODO
+Patchwork,TODO,TODO,TODO
+Pawn Storm,TODO,TODO,TODO
+PawnStorm,TODO,TODO,TODO
+Pfinet,TODO,TODO,TODO
+Phantom Turk,TODO,TODO,TODO
+PinkPanther,TODO,TODO,TODO
+Pioneer,TODO,TODO,TODO
+Pirate Panda,TODO,TODO,TODO
+Pitty Panda,TODO,TODO,TODO
+PittyTiger,TODO,TODO,TODO
+Pizzo Spider,TODO,TODO,TODO
+PLA Navy,TODO,TODO,TODO
+PLATINUM,TODO,TODO,TODO
+PLA Unit 61398,TODO,TODO,TODO
+PLA Unit 61486,TODO,TODO,TODO
+PLA Unit 78020,TODO,TODO,TODO
+Playful Dragon,TODO,TODO,TODO
+Poisonous Panda,TODO,TODO,TODO
+Popeye,TODO,TODO,TODO
+Poseidon Group,TODO,TODO,TODO
+POTASSIUM,TODO,TODO,TODO
+PowerPool,TODO,TODO,TODO
+Predator Panda,TODO,TODO,TODO
+Prince of Persia,TODO,TODO,TODO
+Project Sauron,TODO,TODO,TODO
+ProjectSauron,TODO,TODO,TODO
+PROMETHIUM,TODO,TODO,TODO
+Putter Panda,TODO,TODO,TODO
+QAZTeam,TODO,TODO,TODO
+Quedagh,TODO,TODO,TODO
+Radio Panda,TODO,TODO,TODO
+Ragebeast,TODO,TODO,TODO
+Rancor group,TODO,TODO,TODO
+RANCOR,TODO,TODO,TODO
+RASPITE,TODO,TODO,TODO
+Reaper Group,TODO,TODO,TODO
+Reaper,TODO,TODO,TODO
+Rebel Jackal,TODO,TODO,TODO
+RedAlpha,TODO,TODO,TODO
+Red Apollo,TODO,TODO,TODO
+RedBaldKnight,TODO,TODO,TODO
+Red Eyes,TODO,TODO,TODO
+Red October,TODO,TODO,TODO
+Reuse team,TODO,TODO,TODO
+Ricochet Chollima,TODO,TODO,TODO
+Roaming Mantis Group,TODO,TODO,TODO
+Roaming Mantis,TODO,TODO,TODO
+Roaming Tiger,TODO,TODO,TODO
+Rocket Kitten,TODO,TODO,TODO
+Royal APT,TODO,TODO,TODO
+Sabre Panda,TODO,TODO,TODO
+Saffron Rose,TODO,TODO,TODO
+SaffronRose,TODO,TODO,TODO
+Samurai Panda,TODO,TODO,TODO
+Sands Casino,TODO,TODO,TODO
+Sandworm Team,TODO,TODO,TODO
+Sandworm,TODO,TODO,TODO
+Sarit,TODO,TODO,TODO
+Sauron,TODO,TODO,TODO
+Sayad,TODO,TODO,TODO
+SCANDIUM,TODO,TODO,TODO
+ScarCruft,TODO,TODO,TODO
+Scarlet Mimic,TODO,TODO,TODO
+SeaDuke,TODO,TODO,TODO
+SeaLotus,TODO,TODO,TODO
+SEA,TODO,TODO,TODO
+Sednit,TODO,TODO,TODO
+Sh3llCr3w,TODO,TODO,TODO
+Shadow Brokers,TODO,TODO,TODO
+ShadowBrokers,TODO,TODO,TODO
+Shark Spider,TODO,TODO,TODO
+Shell Crew,TODO,TODO,TODO
+Shrouded Crossbow,TODO,TODO,TODO
+Silent Chollima,TODO,TODO,TODO
+SilverTerrier,TODO,TODO,TODO
+SilverTerrier,TODO,TODO,TODO
+Sima,TODO,TODO,TODO
+Singing Spider,TODO,TODO,TODO
+Skipper,TODO,TODO,TODO
+Skipper Turla,TODO,TODO,TODO
+Slayer Kitten,TODO,TODO,TODO
+Snake,TODO,TODO,TODO
+Snake Wine,TODO,TODO,TODO
+Sneaky Panda,TODO,TODO,TODO
+SNOWGLOBE,TODO,TODO,TODO
+Social Network Team,TODO,TODO,TODO
+Sofacy,TODO,TODO,TODO
+Sowbug,TODO,TODO,TODO
+Sphinx Moth,TODO,TODO,TODO
+Spicy Panda,TODO,TODO,TODO
+Spring Dragon,TODO,TODO,TODO
+Stalker Panda,TODO,TODO,TODO
+Starcruft,TODO,TODO,TODO
+StarCruft,TODO,TODO,TODO
+Stealth Falcon,TODO,TODO,TODO
+ Stealth Mango and Tangelo ,TODO,TODO,TODO
+ST Group,TODO,TODO,TODO
+Stone Panda,TODO,TODO,TODO
+Strider,TODO,TODO,TODO
+StrongPity,TODO,TODO,TODO
+STRONTIUM,TODO,TODO,TODO
+Subaat,TODO,TODO,TODO
+Suckfly,TODO,TODO,TODO
+SULPHUR,TODO,TODO,TODO
+Sunshop Group,TODO,TODO,TODO
+Superman,TODO,TODO,TODO
+SVCMONDR,TODO,TODO,TODO
+Swallowtail,TODO,TODO,TODO
+SykipotGroup,TODO,TODO,TODO
+Sykipot,TODO,TODO,TODO
+SyrianElectronicArmy,TODO,TODO,TODO
+TA459,TODO,TODO,TODO
+TA530,TODO,TODO,TODO
+TAG_0530,TODO,TODO,TODO
+TAG_0700,TODO,TODO,TODO
+Tailgater Team,TODO,TODO,TODO
+Tailgater,TODO,TODO,TODO
+Tapaoux,TODO,TODO,TODO
+Tarh Andishan,TODO,TODO,TODO
+Team338,TODO,TODO,TODO
+Team Bear,TODO,TODO,TODO
+TeamSpy Crew,TODO,TODO,TODO
+TeamSpy,TODO,TODO,TODO
+TeamXRat,TODO,TODO,TODO
+Telebots,ESET,2018-10-17,https://www.welivesecurity.com/2018/10/17/greyenergy-updated-arsenal-dangerous-threat-actors/
+TEMP.Avengers,TODO,TODO,TODO
+TEMP.Beanie,TODO,TODO,TODO
+temp.bottle,TODO,TODO,TODO
+Temper Panda,TODO,TODO,TODO
+TEMP.Hermit,FireEye,2018-10-03,https://www.fireeye.com/blog/threat-research/2018/10/apt38-details-on-new-north-korean-regime-backed-threat-group.html
+TEMP.Hippo,TODO,TODO,TODO
+TEMP.Noble,TODO,TODO,TODO
+TEMP.Periscope,TODO,TODO,TODO
+TempTick,TODO,TODO,TODO
+TEMP.Veles,FireEye,2018-10-23,https://www.fireeye.com/blog/threat-research/2018/10/triton-attribution-russian-government-owned-lab-most-likely-built-tools.html
+TEMP.Zagros,TODO,TODO,TODO
+TEMP.Zhenbao,TODO,TODO,TODO
+TERBIUM,TODO,TODO,TODO
+Test Panda,TODO,TODO,TODO
+TG-0110,TODO,TODO,TODO
+TG-0416,TODO,TODO,TODO
+TG-2754,TODO,TODO,TODO
+TG-2889,TODO,TODO,TODO
+TG-3390,TODO,TODO,TODO
+TG-4127,TODO,TODO,TODO
+TG-6952,TODO,TODO,TODO
+TG-8223,TODO,TODO,TODO
+TH3Bug,TODO,TODO,TODO
+Thamar Reservoir,TODO,TODO,TODO
+The Big Bang,TODO,TODO,TODO
+The Dukes,TODO,TODO,TODO
+The Gorgon Group,TODO,TODO,TODO
+the Lamberts,TODO,TODO,TODO
+The Mask,TODO,TODO,TODO
+the Rocra,TODO,TODO,TODO
+The Shadow Brokers,TODO,TODO,TODO
+The ShadowBrokers,TODO,TODO,TODO
+Threat Group 2889,TODO,TODO,TODO
+Threat Group 3390,TODO,TODO,TODO
+Threat Group-3390,TODO,TODO,TODO
+Thrip,TODO,TODO,TODO
+Tick,TODO,TODO,TODO
+Tilded Team,TODO,TODO,TODO
+Timberworm,TODO,TODO,TODO
+Tonto Team,TODO,TODO,TODO
+Toxic Panda,TODO,TODO,TODO
+Transparent Tribe,TODO,TODO,TODO
+Tropic Trooper,TODO,TODO,TODO
+Tsar Team,TODO,TODO,TODO
+TsarTeam,TODO,TODO,TODO
+TSB,TODO,TODO,TODO
+TunisianCyberArmy,TODO,TODO,TODO
+Turk Hack Team,TODO,TODO,TODO
+TurkHackTeam,TODO,TODO,TODO
+Turla Group,TODO,TODO,TODO
+Turla Team,TODO,TODO,TODO
+Turla,TODO,TODO,TODO
+Twisted Kitten,TODO,TODO,TODO
+TwoForOne,TODO,TODO,TODO
+Ugly Face,TODO,TODO,TODO
+Union Panda,TODO,TODO,TODO
+Union Spider,TODO,TODO,TODO
+Unit 121,TODO,TODO,TODO
+Unit 8200,TODO,TODO,TODO
+United Cyber Caliphate,TODO,TODO,TODO
+Unnamed Actor,TODO,TODO,TODO
+UPS Team,TODO,TODO,TODO
+UPS,TODO,TODO,TODO
+Uroburos,TODO,TODO,TODO
+UUC,TODO,TODO,TODO
+Venomous Bear,TODO,TODO,TODO
+Viceroy Tiger,TODO,TODO,TODO
+Vikingdom,TODO,TODO,TODO
+Viking Jackal,TODO,TODO,TODO
+Violin Panda,TODO,TODO,TODO
+Vixen Panda,TODO,TODO,TODO
+Volatile Cedar,TODO,TODO,TODO
+Voodoo Bear,TODO,TODO,TODO
+Waterbug,TODO,TODO,TODO
+WebMasters,TODO,TODO,TODO
+Wekby,TODO,TODO,TODO
+Wet Panda,TODO,TODO,TODO
+White Bear,TODO,TODO,TODO
+WHOis Team,TODO,TODO,TODO
+Wicked Panda,TODO,TODO,TODO
+Wicked Spider,TODO,TODO,TODO
+WildNeutron,TODO,TODO,TODO
+Winnti Group,TODO,TODO,TODO
+Winnti Umbrella,TODO,TODO,TODO
+Wisp Team,TODO,TODO,TODO
+Wizard Spider,CrowdStrike,2018-10-25,https://www.crowdstrike.com/blog/cutwail-spam-campaign-uses-steganography-to-distribute-urlzone/
+Wkysol,TODO,TODO,TODO
+Wolf Spider,TODO,TODO,TODO
+WRAITH,TODO,TODO,TODO
+XENOTIME,Dragos,2018-05-24,https://dragos.com/blog/20180524Xenotime.html
+Zhenbao,TODO,TODO,TODO
+ZipToken,TODO,TODO,TODO
+ZooPark,TODO,TODO,TODO
