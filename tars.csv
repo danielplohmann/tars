@@ -3,3 +3,21 @@ APT38,FireEye,2018-10-03,https://www.fireeye.com/blog/threat-research/2018/10/ap
 TEMP.Hermit,FireEye,2018-10-03,https://www.fireeye.com/blog/threat-research/2018/10/apt38-details-on-new-north-korean-regime-backed-threat-group.html
 XENOTIME,Dragos,2018-05-24,https://dragos.com/blog/20180524Xenotime.html
 ELECTRUM,Dragos,2017-06-12,https://dragos.com/blog/crashoverride/
+Lazarus Group,Novetta,2016-02-24,https://www.operationblockbuster.com/wp-content/uploads/2016/02/Operation-Blockbuster-Report.pdf
+GreyEnergy,ESET,2018-10-17,https://www.welivesecurity.com/2018/10/17/greyenergy-updated-arsenal-dangerous-threat-actors/
+BlackEnergy,ESET,2018-10-17,https://www.welivesecurity.com/2018/10/17/greyenergy-updated-arsenal-dangerous-threat-actors/
+Telebots,ESET,2018-10-17,https://www.welivesecurity.com/2018/10/17/greyenergy-updated-arsenal-dangerous-threat-actors/
+Duqu,Kaspersky,2015-06-10,https://securelist.com/the-mystery-of-duqu-2-0-a-sophisticated-cyberespionage-actor-returns/70504/
+Narwhal Spider,CrowdStrike,2018-10-25,https://www.crowdstrike.com/blog/cutwail-spam-campaign-uses-steganography-to-distribute-urlzone/
+Wizard Spider,CrowdStrike,2018-10-25,https://www.crowdstrike.com/blog/cutwail-spam-campaign-uses-steganography-to-distribute-urlzone/
+Bamboo Spider,CrowdStrike,2018-10-25,https://www.crowdstrike.com/blog/cutwail-spam-campaign-uses-steganography-to-distribute-urlzone/
+TEMP.Veles,FireEye,2018-10-23,https://www.fireeye.com/blog/threat-research/2018/10/triton-attribution-russian-government-owned-lab-most-likely-built-tools.html
+Lazarus Group,Talos,2018-10-30,https://www.virusbulletin.com/virusbulletin/2018/10/vb2018-paper-who-wasnt-responsible-olympic-destroyer/
+Bluenoroff Group,Talos,2018-10-30,https://www.virusbulletin.com/virusbulletin/2018/10/vb2018-paper-who-wasnt-responsible-olympic-destroyer/
+Group 77,Talos,2018-10-30,https://www.virusbulletin.com/virusbulletin/2018/10/vb2018-paper-who-wasnt-responsible-olympic-destroyer/
+APT3,Intezer,2018-02-12,http://www.intezer.com/2018-winter-cyber-olympics-code-similarities-cyber-attacks-pyeongchang/
+APT10,Intezer,2018-02-12,http://www.intezer.com/2018-winter-cyber-olympics-code-similarities-cyber-attacks-pyeongchang/
+APT10,FireEye,2017-04-06,https://www.fireeye.com/blog/threat-research/2017/04/apt10_menupass_grou.html
+MenuPass Group,FireEye,2017-04-06,https://www.fireeye.com/blog/threat-research/2017/04/apt10_menupass_grou.html
+APT10,BAE Systems,2017-04-03,https://baesystemsai.blogspot.com/2017/04/apt10-operation-cloud-hopper_3.html
+APT10,PWC,2017-04-00,https://www.pwc.co.uk/issues/cyber-security-data-privacy/insights/operation-cloud-hopper.html
