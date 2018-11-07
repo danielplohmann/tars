@@ -1,2 +1,5 @@
 Threat Actor Name,Naming Entity,Date,Reference
 APT38,FireEye,2018-10-03,https://www.fireeye.com/blog/threat-research/2018/10/apt38-details-on-new-north-korean-regime-backed-threat-group.html
+TEMP.Hermit,FireEye,2018-10-03,https://www.fireeye.com/blog/threat-research/2018/10/apt38-details-on-new-north-korean-regime-backed-threat-group.html
+XENOTIME,Dragos,2018-05-24,https://dragos.com/blog/20180524Xenotime.html
+ELECTRUM,Dragos,2017-06-12,https://dragos.com/blog/crashoverride/
