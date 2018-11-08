@@ -1,4 +1,3 @@
-Threat Actor Name,Naming Entity,Date,Reference
 1.php Group,TODO,TODO,TODO
 2889,TODO,TODO,TODO
 4HCrew,TODO,TODO,TODO
@@ -16,7 +15,7 @@ Andariel,TODO,TODO,TODO
 Andromeda Spider,TODO,TODO,TODO
 Anger Bear,TODO,TODO,TODO
 Animal Farm,TODO,TODO,TODO
-Anunak,TODO,TODO,TODO
+Anunak,AlienVault,2018-01-30,https://www.alienvault.com/blogs/security-essentials/otx-trends-part-3-threat-actors
 Appin,TODO,TODO,TODO
 APT10,BAE Systems,2017-04-03,https://baesystemsai.blogspot.com/2017/04/apt10-operation-cloud-hopper_3.html
 APT10,FireEye,2017-04-06,https://www.fireeye.com/blog/threat-research/2017/04/apt10_menupass_grou.html
@@ -35,7 +34,7 @@ APT23,TODO,TODO,TODO
 APT26,TODO,TODO,TODO
 APT27,TODO,TODO,TODO
 APT28,TODO,TODO,TODO
-APT29,TODO,TODO,TODO
+APT29,AlienVault,2018-01-30,https://www.alienvault.com/blogs/security-essentials/otx-trends-part-3-threat-actors
 APT2,TODO,TODO,TODO
 APT30,TODO,TODO,TODO
 APT.3102,TODO,TODO,TODO
@@ -143,7 +142,7 @@ Dagger Panda,TODO,TODO,TODO
 Dancing Salome,TODO,TODO,TODO
 Danti,TODO,TODO,TODO
 Dark Caracal,TODO,TODO,TODO
-DarkHotel,TODO,TODO,TODO
+DarkHotel,AlienVault,2018-01-30,https://www.alienvault.com/blogs/security-essentials/otx-trends-part-3-threat-actors
 DarkHydrus,TODO,TODO,TODO
 Dark Seoul,TODO,TODO,TODO
 DD4BC,TODO,TODO,TODO
@@ -160,7 +159,7 @@ DoNot Team,TODO,TODO,TODO
 Dragonfly2,TODO,TODO,TODO
 Dragonfly,TODO,TODO,TODO
 DragonOK,TODO,TODO,TODO
-Dropping Elephant,TODO,TODO,TODO
+Dropping Elephant,AlienVault,2018-01-30,https://www.alienvault.com/blogs/security-essentials/otx-trends-part-3-threat-actors
 DUBNIUM,TODO,TODO,TODO
 Dukes,TODO,TODO,TODO
 Duqu Group,Kaspersky,2015-06-10,https://securelist.com/the-mystery-of-duqu-2-0-a-sophisticated-cyberespionage-actor-returns/70504/
@@ -176,7 +175,7 @@ Elise,TODO,TODO,TODO
 El Machete,TODO,TODO,TODO
 Eloquent Panda,TODO,TODO,TODO
 Emdivi,TODO,TODO,TODO
-Emissary Panda,TODO,TODO,TODO
+Emissary Panda,AlienVault,2018-01-30,https://www.alienvault.com/blogs/security-essentials/otx-trends-part-3-threat-actors
 Energetic Bear,TODO,TODO,TODO
 EQGRP,TODO,TODO,TODO
 Equation Group,TODO,TODO,TODO
@@ -212,7 +211,7 @@ GIF89a,TODO,TODO,TODO
 Goblin Panda,TODO,TODO,TODO
 GOP,TODO,TODO,TODO
 Gothic Panda,TODO,TODO,TODO
-Greenbug,TODO,TODO,TODO
+GreenBug,AlienVault,2018-01-30,https://www.alienvault.com/blogs/security-essentials/otx-trends-part-3-threat-actors
 GREF,TODO,TODO,TODO
 GreyEnergy,ESET,2018-10-17,https://www.welivesecurity.com/2018/10/17/greyenergy-updated-arsenal-dangerous-threat-actors/
 Groundbait,TODO,TODO,TODO
@@ -279,6 +278,8 @@ KungFu Kittens,TODO,TODO,TODO
 Labyrinth Chollima,TODO,TODO,TODO
 LadyBoyle,TODO,TODO,TODO
 Lamberts,TODO,TODO,TODO
+Lazarus Group,AlienVault,2018-01-30,https://www.alienvault.com/blogs/security-essentials/otx-trends-part-3-threat-actors
+Lazarus Group,AlienVault,2018-11-04,https://www.alienvault.com/docs/whitepapers/2018-open-threat-exchange-trends.pdf
 Lazarus Group,Novetta,2016-02-24,https://www.operationblockbuster.com/wp-content/uploads/2016/02/Operation-Blockbuster-Report.pdf
 Lazarus Group,Talos,2018-10-30,https://www.virusbulletin.com/virusbulletin/2018/10/vb2018-paper-who-wasnt-responsible-olympic-destroyer/
 Lazarus,TODO,TODO,TODO
@@ -313,7 +314,7 @@ Minidionis,TODO,TODO,TODO
 Mirage,TODO,TODO,TODO
 Moafee,TODO,TODO,TODO
 Mofang,TODO,TODO,TODO
-Molerats,TODO,TODO,TODO
+MoleRats,AlienVault,2018-01-30,https://www.alienvault.com/blogs/security-essentials/otx-trends-part-3-threat-actors
 MoneyTaker,TODO,TODO,TODO
 Monsoon,TODO,TODO,TODO
 Moonlight,TODO,TODO,TODO
@@ -340,7 +341,7 @@ OceanLotus Group,TODO,TODO,TODO
 Ocean Lotus,TODO,TODO,TODO
 Office Monkeys,TODO,TODO,TODO
 OfficeMonkeys,TODO,TODO,TODO
-OilRig,TODO,TODO,TODO
+OilRig,AlienVault,2018-01-30,https://www.alienvault.com/blogs/security-essentials/otx-trends-part-3-threat-actors
 OnionDog,TODO,TODO,TODO
 Operation AppleJeus,TODO,TODO,TODO
 Operation BugDrop,TODO,TODO,TODO
@@ -425,8 +426,8 @@ Saffron Rose,TODO,TODO,TODO
 SaffronRose,TODO,TODO,TODO
 Samurai Panda,TODO,TODO,TODO
 Sands Casino,TODO,TODO,TODO
+Sandworm,AlienVault,2018-01-30,https://www.alienvault.com/blogs/security-essentials/otx-trends-part-3-threat-actors
 Sandworm Team,TODO,TODO,TODO
-Sandworm,TODO,TODO,TODO
 Sarit,TODO,TODO,TODO
 Sauron,TODO,TODO,TODO
 Sayad,TODO,TODO,TODO
@@ -441,10 +442,9 @@ Sh3llCr3w,TODO,TODO,TODO
 Shadow Brokers,TODO,TODO,TODO
 ShadowBrokers,TODO,TODO,TODO
 Shark Spider,TODO,TODO,TODO
-Shell Crew,TODO,TODO,TODO
+Shell Crew,AlienVault,2018-01-30,https://www.alienvault.com/blogs/security-essentials/otx-trends-part-3-threat-actors
 Shrouded Crossbow,TODO,TODO,TODO
 Silent Chollima,TODO,TODO,TODO
-SilverTerrier,TODO,TODO,TODO
 SilverTerrier,TODO,TODO,TODO
 Sima,TODO,TODO,TODO
 Singing Spider,TODO,TODO,TODO
@@ -456,7 +456,8 @@ Snake Wine,TODO,TODO,TODO
 Sneaky Panda,TODO,TODO,TODO
 SNOWGLOBE,TODO,TODO,TODO
 Social Network Team,TODO,TODO,TODO
-Sofacy,TODO,TODO,TODO
+Sofacy,AlienVault,2018-01-30,https://www.alienvault.com/blogs/security-essentials/otx-trends-part-3-threat-actors
+Sophacy,TODO,TODO,TODO
 Sowbug,TODO,TODO,TODO
 Sphinx Moth,TODO,TODO,TODO
 Spicy Panda,TODO,TODO,TODO
@@ -465,9 +466,9 @@ Stalker Panda,TODO,TODO,TODO
 Starcruft,TODO,TODO,TODO
 StarCruft,TODO,TODO,TODO
 Stealth Falcon,TODO,TODO,TODO
- Stealth Mango and Tangelo ,TODO,TODO,TODO
+Stealth Mango and Tangelo,TODO,TODO,TODO
 ST Group,TODO,TODO,TODO
-Stone Panda,TODO,TODO,TODO
+Stone Panda,AlienVault,2018-01-30,https://www.alienvault.com/blogs/security-essentials/otx-trends-part-3-threat-actors
 Strider,TODO,TODO,TODO
 StrongPity,TODO,TODO,TODO
 STRONTIUM,TODO,TODO,TODO
@@ -527,6 +528,7 @@ The Mask,TODO,TODO,TODO
 the Rocra,TODO,TODO,TODO
 The Shadow Brokers,TODO,TODO,TODO
 The ShadowBrokers,TODO,TODO,TODO
+Threat Actor Name,Naming Entity,Date,Reference
 Threat Group 2889,TODO,TODO,TODO
 Threat Group 3390,TODO,TODO,TODO
 Threat Group-3390,TODO,TODO,TODO
@@ -544,9 +546,9 @@ TSB,TODO,TODO,TODO
 TunisianCyberArmy,TODO,TODO,TODO
 Turk Hack Team,TODO,TODO,TODO
 TurkHackTeam,TODO,TODO,TODO
+Turla,AlienVault,2018-01-30,https://www.alienvault.com/blogs/security-essentials/otx-trends-part-3-threat-actors
 Turla Group,TODO,TODO,TODO
 Turla Team,TODO,TODO,TODO
-Turla,TODO,TODO,TODO
 Twisted Kitten,TODO,TODO,TODO
 TwoForOne,TODO,TODO,TODO
 Ugly Face,TODO,TODO,TODO
@@ -556,8 +558,8 @@ Unit 121,TODO,TODO,TODO
 Unit 8200,TODO,TODO,TODO
 United Cyber Caliphate,TODO,TODO,TODO
 Unnamed Actor,TODO,TODO,TODO
+UPS,AlienVault,2018-01-30,https://www.alienvault.com/blogs/security-essentials/otx-trends-part-3-threat-actors
 UPS Team,TODO,TODO,TODO
-UPS,TODO,TODO,TODO
 Uroburos,TODO,TODO,TODO
 UUC,TODO,TODO,TODO
 Venomous Bear,TODO,TODO,TODO
