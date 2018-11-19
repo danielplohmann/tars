@@ -12,7 +12,7 @@ ALLANITE,TODO,TODO,TODO,TODO
 ALUMINUM,TODO,TODO,TODO,TODO
 Ambiorx,TODO,TODO,TODO,TODO
 Anchor Panda,TODO,TODO,TODO,TODO
-Andariel,TODO,TODO,TODO,TODO
+Andariel,AhnLab,2018-06-23,"Full Discloser of Andariel, A Subgroup of Lazarus Threat Group",https://global.ahnlab.com/global/upload/download/techreport/[AhnLab]Andariel_a_Subgroup_of_Lazarus%20(3).pdf
 Andromeda Spider,TODO,TODO,TODO,TODO
 Anger Bear,TODO,TODO,TODO,TODO
 Animal Farm,TODO,TODO,TODO,TODO
@@ -237,6 +237,7 @@ Group 83,TODO,TODO,TODO,TODO
 Group 88,TODO,TODO,TODO,TODO
 Group 8,TODO,TODO,TODO,TODO
 Guardian of Peace,TODO,TODO,TODO,TODO
+Hades,Checkpoint,2018-11-16,"New Strain of Olympic Destroyer Droppers",https://research.checkpoint.com/new-strain-of-olympic-destroyer-droppers/
 Hammer Panda,TODO,TODO,TODO,TODO
 Hammer Toss,TODO,TODO,TODO,TODO
 happyyongzi,TODO,TODO,TODO,TODO
@@ -284,7 +285,8 @@ Lazarus Group,AlienVault,2018-01-30,"OTX Trends Part 3 - Threat Actors",https://
 Lazarus Group,AlienVault,2018-11-04,"OTX Trends 2018 Q1 and Q2",https://www.alienvault.com/docs/whitepapers/2018-open-threat-exchange-trends.pdf
 Lazarus Group,Novetta,2016-02-24,"Operation Blockbuster: Unravelling the Long Thread of the Sony Attack",https://www.operationblockbuster.com/wp-content/uploads/2016/02/Operation-Blockbuster-Report.pdf
 Lazarus Group,Talos,2018-10-30,"VB2018 paper: Who wasn’t responsible for Olympic Destroyer",https://www.virusbulletin.com/virusbulletin/2018/10/vb2018-paper-who-wasnt-responsible-olympic-destroyer/
-Lazarus,TODO,TODO,TODO,TODO
+Lazarus,Kaspersky,2018-03-08,"OlympicDestroyer is here to trick the industry",https://securelist.com/olympicdestroyer-is-here-to-trick-the-industry/84295/
+Lazarus,AhnLab,2018-06-23,"Full Discloser of Andariel, A Subgroup of Lazarus Threat Group",https://global.ahnlab.com/global/upload/download/techreport/[AhnLab]Andariel_a_Subgroup_of_Lazarus%20(3).pdf
 Lead,TODO,TODO,TODO,TODO
 LeafMiner,TODO,TODO,TODO,TODO
 Leviathan,Proofpoint,2017-10-16,"Leviathan: Espionage actor spearphishes maritime and defense targets",https://www.proofpoint.com/us/threat-insight/post/leviathan-espionage-actor-spearphishes-maritime-and-defense-targets
