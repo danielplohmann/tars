@@ -58,7 +58,7 @@ APT.Naikon,TODO,TODO,TODO,TODO
 Arid Viper,TODO,TODO,TODO,TODO
 AridViper,TODO,TODO,TODO,TODO
 Aslan Neferler Tim,TODO,TODO,TODO,TODO
-Aurora Panda,TODO,TODO,TODO,TODO
+Aurora Panda,CrowdStrike,2018-10-09,"OBSERVATIONS FROM THE FRONT LINES OF THREAT HUNTING",https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2018OverwatchReport.pdf
 Axiom,TODO,TODO,TODO,TODO
 Bahamut,TODO,TODO,TODO,TODO
 Bamboo Spider,CrowdStrike,2018-10-25,"Cutwail Spam Campaign Uses Steganography to Distribute URLZone",https://www.crowdstrike.com/blog/cutwail-spam-campaign-uses-steganography-to-distribute-urlzone/
@@ -91,7 +91,7 @@ Calc Team,TODO,TODO,TODO,TODO
 Callisto,TODO,TODO,TODO,TODO
 Camerashy,TODO,TODO,TODO,TODO
 Carbanak,TODO,TODO,TODO,TODO
-Carbon Spider,TODO,TODO,TODO,TODO
+Carbon Spider,CrowdStrike,2018-10-09,"OBSERVATIONS FROM THE FRONT LINES OF THREAT HUNTING",https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2018OverwatchReport.pdf
 Careto,TODO,TODO,TODO,TODO
 CCA,TODO,TODO,TODO,TODO
 Chafer,TODO,TODO,TODO,TODO
@@ -243,6 +243,7 @@ Hammer Toss,TODO,TODO,TODO,TODO
 happyyongzi,TODO,TODO,TODO,TODO
 Hastati Group,TODO,TODO,TODO,TODO
 Havex,TODO,TODO,TODO,TODO
+Helix Kitten,CrowdStrike,2018-10-09,"OBSERVATIONS FROM THE FRONT LINES OF THREAT HUNTING",https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2018OverwatchReport.pdf
 Hellsing,TODO,TODO,TODO,TODO
 HenBox,TODO,TODO,TODO,TODO
 Hidden Cobra,TODO,TODO,TODO,TODO
@@ -268,6 +269,7 @@ Islamic State Hacking Division,TODO,TODO,TODO,TODO
 ITSecTeam,TODO,TODO,TODO,TODO
 IXESHE,TODO,TODO,TODO,TODO
 JerseyMikes,TODO,TODO,TODO,TODO
+Judgement Panda,CrowdStrike,2018-10-09,"OBSERVATIONS FROM THE FRONT LINES OF THREAT HUNTING",https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2018OverwatchReport.pdf
 Karba,TODO,TODO,TODO,TODO
 Karma Panda,TODO,TODO,TODO,TODO
 Ke3Chang,TODO,TODO,TODO,TODO
@@ -281,12 +283,12 @@ KungFu Kittens,TODO,TODO,TODO,TODO
 Labyrinth Chollima,TODO,TODO,TODO,TODO
 LadyBoyle,TODO,TODO,TODO,TODO
 Lamberts,TODO,TODO,TODO,TODO
+Lazarus,AhnLab,2018-06-23,"Full Discloser of Andariel, A Subgroup of Lazarus Threat Group",https://global.ahnlab.com/global/upload/download/techreport/[AhnLab]Andariel_a_Subgroup_of_Lazarus%20(3).pdf
 Lazarus Group,AlienVault,2018-01-30,"OTX Trends Part 3 - Threat Actors",https://www.alienvault.com/blogs/security-essentials/otx-trends-part-3-threat-actors
 Lazarus Group,AlienVault,2018-11-04,"OTX Trends 2018 Q1 and Q2",https://www.alienvault.com/docs/whitepapers/2018-open-threat-exchange-trends.pdf
 Lazarus Group,Novetta,2016-02-24,"Operation Blockbuster: Unravelling the Long Thread of the Sony Attack",https://www.operationblockbuster.com/wp-content/uploads/2016/02/Operation-Blockbuster-Report.pdf
 Lazarus Group,Talos,2018-10-30,"VB2018 paper: Who wasn’t responsible for Olympic Destroyer",https://www.virusbulletin.com/virusbulletin/2018/10/vb2018-paper-who-wasnt-responsible-olympic-destroyer/
 Lazarus,Kaspersky,2018-03-08,"OlympicDestroyer is here to trick the industry",https://securelist.com/olympicdestroyer-is-here-to-trick-the-industry/84295/
-Lazarus,AhnLab,2018-06-23,"Full Discloser of Andariel, A Subgroup of Lazarus Threat Group",https://global.ahnlab.com/global/upload/download/techreport/[AhnLab]Andariel_a_Subgroup_of_Lazarus%20(3).pdf
 Lead,TODO,TODO,TODO,TODO
 LeafMiner,TODO,TODO,TODO,TODO
 Leviathan,Proofpoint,2017-10-16,"Leviathan: Espionage actor spearphishes maritime and defense targets",https://www.proofpoint.com/us/threat-insight/post/leviathan-espionage-actor-spearphishes-maritime-and-defense-targets
@@ -294,7 +296,7 @@ Libyan Scorpions,TODO,TODO,TODO,TODO
 Lion Soldiers Team,TODO,TODO,TODO,TODO
 Longhorn,TODO,TODO,TODO,TODO
 Lotus Blossom,TODO,TODO,TODO,TODO
-Lotus Panda,TODO,TODO,TODO,TODO
+Lotus Panda,CrowdStrike,2018-10-09,"OBSERVATIONS FROM THE FRONT LINES OF THREAT HUNTING",https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2018OverwatchReport.pdf
 LuckyMouse,TODO,TODO,TODO,TODO
 Luder,TODO,TODO,TODO,TODO
 Lurid,TODO,TODO,TODO,TODO
@@ -341,6 +343,7 @@ Night Dragon,TODO,TODO,TODO,TODO
 Nightshade Panda,TODO,TODO,TODO,TODO
 Nitro,TODO,TODO,TODO,TODO
 Numbered Panda,TODO,TODO,TODO,TODO
+Ocean Buffalo,CrowdStrike,2018-10-09,"OBSERVATIONS FROM THE FRONT LINES OF THREAT HUNTING",https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2018OverwatchReport.pdf
 OceanLotus Group,TODO,TODO,TODO,TODO
 Ocean Lotus,TODO,TODO,TODO,TODO
 Office Monkeys,TODO,TODO,TODO,TODO
@@ -382,7 +385,7 @@ Pfinet,TODO,TODO,TODO,TODO
 Phantom Turk,TODO,TODO,TODO,TODO
 PinkPanther,TODO,TODO,TODO,TODO
 Pioneer,TODO,TODO,TODO,TODO
-Pirate Panda,TODO,TODO,TODO,TODO
+Pirate Panda,CrowdStrike,2018-10-09,"OBSERVATIONS FROM THE FRONT LINES OF THREAT HUNTING",https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2018OverwatchReport.pdf
 Pitty Panda,TODO,TODO,TODO,TODO
 PittyTiger,TODO,TODO,TODO,TODO
 Pizzo Spider,TODO,TODO,TODO,TODO
@@ -481,6 +484,9 @@ Suckfly,TODO,TODO,TODO,TODO
 SULPHUR,TODO,TODO,TODO,TODO
 Sunshop Group,TODO,TODO,TODO,TODO
 Superman,TODO,TODO,TODO,TODO
+Suspected BEAR,CrowdStrike,2018-10-09,"OBSERVATIONS FROM THE FRONT LINES OF THREAT HUNTING",https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2018OverwatchReport.pdf
+Suspected PANDA,CrowdStrike,2018-10-09,"OBSERVATIONS FROM THE FRONT LINES OF THREAT HUNTING",https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2018OverwatchReport.pdf
+Suspected SPIDER,CrowdStrike,2018-10-09,"OBSERVATIONS FROM THE FRONT LINES OF THREAT HUNTING",https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2018OverwatchReport.pdf
 SVCMONDR,TODO,TODO,TODO,TODO
 Swallowtail,TODO,TODO,TODO,TODO
 SykipotGroup,TODO,TODO,TODO,TODO
@@ -496,7 +502,7 @@ Tailgater,TODO,TODO,TODO,TODO
 Tapaoux,TODO,TODO,TODO,TODO
 Tarh Andishan,TODO,TODO,TODO,TODO
 Team338,TODO,TODO,TODO,TODO
-Team Bear,TODO,TODO,TODO,TODO
+Team Bear,CrowdStrike,2018-10-09,"OBSERVATIONS FROM THE FRONT LINES OF THREAT HUNTING",https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2018OverwatchReport.pdf
 TeamSpy Crew,TODO,TODO,TODO,TODO
 TeamSpy,TODO,TODO,TODO,TODO
 TeamXRat,TODO,TODO,TODO,TODO
@@ -566,7 +572,7 @@ UPS,AlienVault,2018-01-30,"OTX Trends Part 3 - Threat Actors",https://www.alienv
 UPS Team,TODO,TODO,TODO,TODO
 Uroburos,TODO,TODO,TODO,TODO
 UUC,TODO,TODO,TODO,TODO
-Venomous Bear,TODO,TODO,TODO,TODO
+Venomous Bear,CrowdStrike,2018-10-09,"OBSERVATIONS FROM THE FRONT LINES OF THREAT HUNTING",https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2018OverwatchReport.pdf
 Viceroy Tiger,TODO,TODO,TODO,TODO
 Vikingdom,TODO,TODO,TODO,TODO
 Viking Jackal,TODO,TODO,TODO,TODO
@@ -580,7 +586,7 @@ Wekby,TODO,TODO,TODO,TODO
 Wet Panda,TODO,TODO,TODO,TODO
 White Bear,TODO,TODO,TODO,TODO
 WHOis Team,TODO,TODO,TODO,TODO
-Wicked Panda,TODO,TODO,TODO,TODO
+Wicked Panda,CrowdStrike,2018-10-09,"OBSERVATIONS FROM THE FRONT LINES OF THREAT HUNTING",https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2018OverwatchReport.pdf
 Wicked Spider,TODO,TODO,TODO,TODO
 WildNeutron,TODO,TODO,TODO,TODO
 Winnti Group,TODO,TODO,TODO,TODO
