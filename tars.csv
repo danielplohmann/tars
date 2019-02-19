@@ -13,7 +13,7 @@ ALUMINUM,TODO,TODO,TODO,TODO
 Ambiorx,TODO,TODO,TODO,TODO
 Anchor Panda,TODO,TODO,TODO,TODO
 Andariel,AhnLab,2018-06-23,"Full Discloser of Andariel, A Subgroup of Lazarus Threat Group",https://global.ahnlab.com/global/upload/download/techreport/[AhnLab]Andariel_a_Subgroup_of_Lazarus%20(3).pdf
-Andromeda Spider,TODO,TODO,TODO,TODO
+Andromeda Spider,CrowdStrike,TODO,TODO,TODO
 Anger Bear,TODO,TODO,TODO,TODO
 Animal Farm,TODO,TODO,TODO,TODO
 Anunak,AlienVault,2018-01-30,"OTX Trends Part 3 - Threat Actors",https://www.alienvault.com/blogs/security-essentials/otx-trends-part-3-threat-actors
@@ -65,16 +65,18 @@ Bamboo Spider,CrowdStrike,2018-10-25,"Cutwail Spam Campaign Uses Steganography t
 Barium,TODO,TODO,TODO,TODO
 BeeBus,TODO,TODO,TODO,TODO
 Beijing Group,TODO,TODO,TODO,TODO
+Berserk Bear,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 Berserk Bear,TODO,TODO,TODO,TODO
 Berserker Bear,TODO,TODO,TODO,TODO
 Big Panda,TODO,TODO,TODO,TODO
-Black Energy,ESET,2018-10-17,"GreyEnergy: Updated arsenal of one of the most dangerous threat actors",https://www.welivesecurity.com/2018/10/17/greyenergy-updated-arsenal-dangerous-threat-actors/
+BlackEnergy,ESET,2018-10-17,"GreyEnergy: Updated arsenal of one of the most dangerous threat actors",https://www.welivesecurity.com/2018/10/17/greyenergy-updated-arsenal-dangerous-threat-actors/
 BlackEnergy,ESET,2018-10-17,"GreyEnergy: Updated arsenal of one of the most dangerous threat actors",https://www.welivesecurity.com/2018/10/17/greyenergy-updated-arsenal-dangerous-threat-actors/
 Blackfly,TODO,TODO,TODO,TODO
 Black Vine,TODO,TODO,TODO,TODO
 Bluenoroff Group,Talos,2018-10-30,"VB2018 paper: Who wasn’t responsible for Olympic Destroyer",https://www.virusbulletin.com/virusbulletin/2018/10/vb2018-paper-who-wasnt-responsible-olympic-destroyer/
 Bluenoroff,Talos,2018-10-30,"VB2018 paper: Who wasn’t responsible for Olympic Destroyer",https://www.virusbulletin.com/virusbulletin/2018/10/vb2018-paper-who-wasnt-responsible-olympic-destroyer/
 Blue Termite,TODO,TODO,TODO,TODO
+Boss Spider,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 Boulder Bear,TODO,TODO,TODO,TODO
 Boyusec,TODO,TODO,TODO,TODO
 Bronze Butler,TODO,TODO,TODO,TODO
@@ -91,10 +93,12 @@ Calc Team,TODO,TODO,TODO,TODO
 Callisto,TODO,TODO,TODO,TODO
 Camerashy,TODO,TODO,TODO,TODO
 Carbanak,TODO,TODO,TODO,TODO
+Carbon Spider,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 Carbon Spider,CrowdStrike,2018-10-09,"OBSERVATIONS FROM THE FRONT LINES OF THREAT HUNTING",https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2018OverwatchReport.pdf
 Careto,TODO,TODO,TODO,TODO
 CCA,TODO,TODO,TODO,TODO
 Chafer,TODO,TODO,TODO,TODO
+CHARMING KITTEN,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 Charming Kitten,TODO,TODO,TODO,TODO
 Chinastrats,TODO,TODO,TODO,TODO
 CHRYSENE,TODO,TODO,TODO,TODO
@@ -110,6 +114,7 @@ Cobalt gang,TODO,TODO,TODO,TODO
 Cobalt group,TODO,TODO,TODO,TODO
 Cobalt Gypsy,TODO,TODO,TODO,TODO
 Cobalt Kitty,TODO,TODO,TODO,TODO
+Cobalt Spider,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 Cobalt,TODO,TODO,TODO,TODO
 Codoso,TODO,TODO,TODO,TODO
 Cold River,LastLine,2019-01-11,"Threat Actor 'Cold River': Network Traffic Analysis and a Deep Dive on Agent Drable",https://www.lastline.com/labsblog/threat-actor-cold-river-network-traffic-analysis-and-a-deep-dive-on-agent-drable/
@@ -123,15 +128,12 @@ Corsair Jackal,TODO,TODO,TODO,TODO
 COVELLITE,TODO,TODO,TODO,TODO
 Covert Grove,TODO,TODO,TODO,TODO
 Cozer,TODO,TODO,TODO,TODO
-Cozy Bear,TODO,TODO,TODO,TODO
-CozyBear,TODO,TODO,TODO,TODO
+Cozy Bear,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 CozyCar,TODO,TODO,TODO,TODO
-Cozy Duke,TODO,TODO,TODO,TODO
 CozyDuke,TODO,TODO,TODO,TODO
 Crambus,TODO,TODO,TODO,TODO
 Crescent and Star,TODO,TODO,TODO,TODO
 Crimson Iron,TODO,TODO,TODO,TODO
-Crouching Yeti,TODO,TODO,TODO,TODO
 CrouchingYeti,TODO,TODO,TODO,TODO
 Cutting Kitten,TODO,TODO,TODO,TODO
 CVNX,TODO,TODO,TODO,TODO
@@ -178,6 +180,7 @@ El Machete,TODO,TODO,TODO,TODO
 Eloquent Panda,TODO,TODO,TODO,TODO
 Emdivi,TODO,TODO,TODO,TODO
 Emissary Panda,AlienVault,2018-01-30,"OTX Trends Part 3 - Threat Actors",https://www.alienvault.com/blogs/security-essentials/otx-trends-part-3-threat-actors
+Emissary Panda,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 Energetic Bear,TODO,TODO,TODO,TODO
 EQGRP,TODO,TODO,TODO,TODO
 Equation Group,TODO,TODO,TODO,TODO
@@ -188,12 +191,14 @@ EvilTraffic,TODO,TODO,TODO,TODO
 Extreme Jackal,TODO,TODO,TODO,TODO
 FallagaTeam,TODO,TODO,TODO,TODO
 Fallout Team,TODO,TODO,TODO,TODO
+Fancy Bear,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 Fancy Bear,TODO,TODO,TODO,TODO
 FASTCash,TODO,TODO,TODO,TODO
 FIN4,TODO,TODO,TODO,TODO
 FIN6,TODO,TODO,TODO,TODO
 FIN7,TODO,TODO,TODO,TODO
 FIN8,TODO,TODO,TODO,TODO
+Flash Kitten,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 Flowerlady/Flowershow,TODO,TODO,TODO,TODO
 Flowerlady,TODO,TODO,TODO,TODO
 Flowershow,TODO,TODO,TODO,TODO
@@ -210,12 +215,14 @@ Ghambar,TODO,TODO,TODO,TODO
 Ghost Jackal,TODO,TODO,TODO,TODO
 Gibberish Panda,TODO,TODO,TODO,TODO
 GIF89a,TODO,TODO,TODO,TODO
+Goblin Panda,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 Goblin Panda,TODO,TODO,TODO,TODO
 GOP,TODO,TODO,TODO,TODO
 Gothic Panda,TODO,TODO,TODO,TODO
 GreenBug,AlienVault,2018-01-30,"OTX Trends Part 3 - Threat Actors",https://www.alienvault.com/blogs/security-essentials/otx-trends-part-3-threat-actors
 GREF,TODO,TODO,TODO,TODO
 GreyEnergy,ESET,2018-10-17,"GreyEnergy: Updated arsenal of one of the most dangerous threat actors",https://www.welivesecurity.com/2018/10/17/greyenergy-updated-arsenal-dangerous-threat-actors/
+Grim Spider,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 Grim Spider,CrowdStrike,2019-01-10,"Big Game Hunting with Ryuk: Another Lucrative Targeted Ransomware",https://www.crowdstrike.com/blog/big-game-hunting-with-ryuk-another-lucrative-targeted-ransomware/
 Groundbait,TODO,TODO,TODO,TODO
 Group 100,TODO,TODO,TODO,TODO
@@ -239,12 +246,14 @@ Group 83,TODO,TODO,TODO,TODO
 Group 88,TODO,TODO,TODO,TODO
 Group 8,TODO,TODO,TODO,TODO
 Guardian of Peace,TODO,TODO,TODO,TODO
+Guru Spider,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 Hades,Checkpoint,2018-11-16,"New Strain of Olympic Destroyer Droppers",https://research.checkpoint.com/new-strain-of-olympic-destroyer-droppers/
 Hammer Panda,TODO,TODO,TODO,TODO
 Hammer Toss,TODO,TODO,TODO,TODO
 happyyongzi,TODO,TODO,TODO,TODO
 Hastati Group,TODO,TODO,TODO,TODO
 Havex,TODO,TODO,TODO,TODO
+Helix Kitten,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 Helix Kitten,CrowdStrike,2018-10-09,"OBSERVATIONS FROM THE FRONT LINES OF THREAT HUNTING",https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2018OverwatchReport.pdf
 Hellsing,TODO,TODO,TODO,TODO
 HenBox,TODO,TODO,TODO,TODO
@@ -260,11 +269,11 @@ IceFog,TODO,TODO,TODO,TODO
 iKittens,TODO,TODO,TODO,TODO
 Impersonating Panda,TODO,TODO,TODO,TODO
 Inception Framework,TODO,TODO,TODO,TODO
+Indrik Spider,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 Indrik Spider,CrowdStrike,2018-11-14,"Big Game Hunting: The Evolution of INDRIK SPIDER From Dridex Wire Fraud to BitPaymer Targeted Ransomware",https://www.crowdstrike.com/blog/big-game-hunting-the-evolution-of-indrik-spider-from-dridex-wire-fraud-to-bitpaymer-targeted-ransomware/
 Infy,TODO,TODO,TODO,TODO
 Iron Cyber Group,PaloAlto Networks,2018-09-17,"Xbash Combines Botnet, Ransomware, Coinmining in Worm that Targets Linux and Windows",https://researchcenter.paloaltonetworks.com/2018/09/unit42-xbash-combines-botnet-ransomware-coinmining-worm-targets-linux-windows/
 Iron Group,TODO,TODO,TODO,TODO
-Iron Tiger APT,TODO,TODO,TODO,TODO
 Iron Tiger,TODO,TODO,TODO,TODO
 IRON TWILIGHT,TODO,TODO,TODO,TODO
 Islamic State Hacking Division,TODO,TODO,TODO,TODO
@@ -272,6 +281,7 @@ ITSecTeam,TODO,TODO,TODO,TODO
 IXESHE,TODO,TODO,TODO,TODO
 JerseyMikes,TODO,TODO,TODO,TODO
 Judgement Panda,CrowdStrike,2018-10-09,"OBSERVATIONS FROM THE FRONT LINES OF THREAT HUNTING",https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2018OverwatchReport.pdf
+Judgement Panda,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 Karba,TODO,TODO,TODO,TODO
 Karma Panda,TODO,TODO,TODO,TODO
 Ke3Chang,TODO,TODO,TODO,TODO
@@ -280,9 +290,10 @@ Keyhole Panda,TODO,TODO,TODO,TODO
 Kimsuki,TODO,TODO,TODO,TODO
 Kimsuky,TODO,TODO,TODO,TODO
 Koala Team,TODO,TODO,TODO,TODO
+Kryptonite Panda,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 KRYPTON,TODO,TODO,TODO,TODO
 KungFu Kittens,TODO,TODO,TODO,TODO
-Labyrinth Chollima,TODO,TODO,TODO,TODO
+Labyrinth Chollima,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 LadyBoyle,TODO,TODO,TODO,TODO
 Lamberts,TODO,TODO,TODO,TODO
 Lazarus,AhnLab,2018-06-23,"Full Discloser of Andariel, A Subgroup of Lazarus Threat Group",https://global.ahnlab.com/global/upload/download/techreport/[AhnLab]Andariel_a_Subgroup_of_Lazarus%20(3).pdf
@@ -299,15 +310,17 @@ Libyan Scorpions,TODO,TODO,TODO,TODO
 Lion Soldiers Team,TODO,TODO,TODO,TODO
 Longhorn,TODO,TODO,TODO,TODO
 Lotus Blossom,TODO,TODO,TODO,TODO
+Lotus Panda,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 Lotus Panda,CrowdStrike,2018-10-09,"OBSERVATIONS FROM THE FRONT LINES OF THREAT HUNTING",https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2018OverwatchReport.pdf
 LuckyMouse,TODO,TODO,TODO,TODO
 Luder,TODO,TODO,TODO,TODO
+Lunar Spider,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 Lurid,TODO,TODO,TODO,TODO
 Machete,TODO,TODO,TODO,TODO
 Madi,TODO,TODO,TODO,TODO
 MageCart,TODO,TODO,TODO,TODO
 Magic Hound,TODO,TODO,TODO,TODO
-Magic Kitten,TODO,TODO,TODO,TODO
+Magic Kitten,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 MAGNALLIUM,TODO,TODO,TODO,TODO
 MAGNESIUM,TODO,TODO,TODO,TODO
 Magnetic Spider,TODO,TODO,TODO,TODO
@@ -331,7 +344,8 @@ Morpho,TODO,TODO,TODO,TODO
 MSUpdater,TODO,TODO,TODO,TODO
 MuddyWater,TODO,TODO,TODO,TODO
 Mummy Spider,CrowdStrike,2018-02-08,"Meet CrowdStrike’s Adversary of the Month for February: MUMMY SPIDER",https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-february-mummy-spider/
-Mustang Panda,TODO,TODO,TODO,TODO
+Mummy Spider,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
+Mustang Panda,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 Mythic Leopard,TODO,TODO,TODO,TODO
 Naikon,TODO,TODO,TODO,TODO
 Narwhal Spider,CrowdStrike,2018-10-25,"Cutwail Spam Campaign Uses Steganography to Distribute URLZone",https://www.crowdstrike.com/blog/cutwail-spam-campaign-uses-steganography-to-distribute-urlzone/
@@ -346,7 +360,9 @@ Nexus Zeta,TODO,TODO,TODO,TODO
 Night Dragon,TODO,TODO,TODO,TODO
 Nightshade Panda,TODO,TODO,TODO,TODO
 Nitro,TODO,TODO,TODO,TODO
+NOMAD PANDA,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 Numbered Panda,TODO,TODO,TODO,TODO
+Ocean Buffalo,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 Ocean Buffalo,CrowdStrike,2018-10-09,"OBSERVATIONS FROM THE FRONT LINES OF THREAT HUNTING",https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2018OverwatchReport.pdf
 OceanLotus Group,TODO,TODO,TODO,TODO
 Ocean Lotus,TODO,TODO,TODO,TODO
@@ -387,6 +403,7 @@ Pawn Storm,TODO,TODO,TODO,TODO
 PawnStorm,TODO,TODO,TODO,TODO
 Pfinet,TODO,TODO,TODO,TODO
 Phantom Turk,TODO,TODO,TODO,TODO
+Pinchy Spider,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 PinkPanther,TODO,TODO,TODO,TODO
 Pioneer,TODO,TODO,TODO,TODO
 Pirate Panda,CrowdStrike,2018-10-09,"OBSERVATIONS FROM THE FRONT LINES OF THREAT HUNTING",https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2018OverwatchReport.pdf
@@ -426,7 +443,7 @@ RedBaldKnight,TODO,TODO,TODO,TODO
 Red Eyes,TODO,TODO,TODO,TODO
 Red October,TODO,TODO,TODO,TODO
 Reuse team,TODO,TODO,TODO,TODO
-Ricochet Chollima,TODO,TODO,TODO,TODO
+Ricochet Chollima,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 Roaming Mantis Group,TODO,TODO,TODO,TODO
 Roaming Mantis,TODO,TODO,TODO,TODO
 Roaming Tiger,TODO,TODO,TODO,TODO
@@ -435,6 +452,7 @@ Royal APT,TODO,TODO,TODO,TODO
 Sabre Panda,TODO,TODO,TODO,TODO
 Saffron Rose,TODO,TODO,TODO,TODO
 SaffronRose,TODO,TODO,TODO,TODO
+Salty Spider,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 Samurai Panda,TODO,TODO,TODO,TODO
 Sands Casino,TODO,TODO,TODO,TODO
 Sandworm,AlienVault,2018-01-30,"OTX Trends Part 3 - Threat Actors",https://www.alienvault.com/blogs/security-essentials/otx-trends-part-3-threat-actors
@@ -450,20 +468,21 @@ SeaLotus,TODO,TODO,TODO,TODO
 SEA,TODO,TODO,TODO,TODO
 Sednit,TODO,TODO,TODO,TODO
 Sh3llCr3w,TODO,TODO,TODO,TODO
-Shadow Brokers,TODO,TODO,TODO,TODO
 ShadowBrokers,TODO,TODO,TODO,TODO
+Shadow Crane,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 Shark Spider,TODO,TODO,TODO,TODO
 Shell Crew,AlienVault,2018-01-30,"OTX Trends Part 3 - Threat Actors",https://www.alienvault.com/blogs/security-essentials/otx-trends-part-3-threat-actors
 Shrouded Crossbow,TODO,TODO,TODO,TODO
-Silent Chollima,TODO,TODO,TODO,TODO
+Silent Chollima,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 SilverTerrier,TODO,TODO,TODO,TODO
 Sima,TODO,TODO,TODO,TODO
 Singing Spider,TODO,TODO,TODO,TODO
+Skeleton Spider,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 Skipper,TODO,TODO,TODO,TODO
 Skipper Turla,TODO,TODO,TODO,TODO
 Slayer Kitten,TODO,TODO,TODO,TODO
-Snake,TODO,TODO,TODO,TODO
 SNAKEMACKEREL,Accenture,2018-11-29,"Snakemackerel delivers Zekapab malware",https://www.accenture.com/us-en/blogs/blogs-snakemackerel-delivers-zekapab-malware
+Snake,TODO,TODO,TODO,TODO
 Snake Wine,TODO,TODO,TODO,TODO
 Sneaky Panda,TODO,TODO,TODO,TODO
 SNOWGLOBE,TODO,TODO,TODO,TODO
@@ -478,10 +497,13 @@ Spring Dragon,TODO,TODO,TODO,TODO
 Stalker Panda,TODO,TODO,TODO,TODO
 Starcruft,TODO,TODO,TODO,TODO
 StarCruft,TODO,TODO,TODO,TODO
+Stardust Chollima,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
+Static Kitten,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 Stealth Falcon,TODO,TODO,TODO,TODO
 Stealth Mango and Tangelo,TODO,TODO,TODO,TODO
 ST Group,TODO,TODO,TODO,TODO
 Stone Panda,AlienVault,2018-01-30,"OTX Trends Part 3 - Threat Actors",https://www.alienvault.com/blogs/security-essentials/otx-trends-part-3-threat-actors
+Stone Panda,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 Strider,TODO,TODO,TODO,TODO
 StrongPity,TODO,TODO,TODO,TODO
 STRONTIUM,TODO,TODO,TODO,TODO
@@ -552,6 +574,7 @@ Thrip,TODO,TODO,TODO,TODO
 Tick,TODO,TODO,TODO,TODO
 Tilded Team,TODO,TODO,TODO,TODO
 Timberworm,TODO,TODO,TODO,TODO
+Tiny Spider,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 Tonto Team,TODO,TODO,TODO,TODO
 Toxic Panda,TODO,TODO,TODO,TODO
 Transparent Tribe,TODO,TODO,TODO,TODO
@@ -578,26 +601,30 @@ UPS,AlienVault,2018-01-30,"OTX Trends Part 3 - Threat Actors",https://www.alienv
 UPS Team,TODO,TODO,TODO,TODO
 Uroburos,TODO,TODO,TODO,TODO
 UUC,TODO,TODO,TODO,TODO
+Velvet Chollima,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
+Venomous Bear,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 Venomous Bear,CrowdStrike,2018-10-09,"OBSERVATIONS FROM THE FRONT LINES OF THREAT HUNTING",https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2018OverwatchReport.pdf
 Viceroy Tiger,TODO,TODO,TODO,TODO
 Vikingdom,TODO,TODO,TODO,TODO
 Viking Jackal,TODO,TODO,TODO,TODO
 Violin Panda,TODO,TODO,TODO,TODO
-Vixen Panda,TODO,TODO,TODO,TODO
+Vixen Panda,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 Volatile Cedar,TODO,TODO,TODO,TODO
-Voodoo Bear,TODO,TODO,TODO,TODO
+Voodoo Bear,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 Waterbug,TODO,TODO,TODO,TODO
 WebMasters,TODO,TODO,TODO,TODO
 Wekby,TODO,TODO,TODO,TODO
 Wet Panda,TODO,TODO,TODO,TODO
 White Bear,TODO,TODO,TODO,TODO
 WHOis Team,TODO,TODO,TODO,TODO
+Wicked Panda,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 Wicked Panda,CrowdStrike,2018-10-09,"OBSERVATIONS FROM THE FRONT LINES OF THREAT HUNTING",https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2018OverwatchReport.pdf
 Wicked Spider,TODO,TODO,TODO,TODO
 WildNeutron,TODO,TODO,TODO,TODO
 Winnti Group,TODO,TODO,TODO,TODO
 Winnti Umbrella,TODO,TODO,TODO,TODO
 Wisp Team,TODO,TODO,TODO,TODO
+Wizard Spider,CrowdStrike,2018-10-09,"2019 GLOBAL THREAT REPORT",https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/
 Wizard Spider,CrowdStrike,2018-10-25,"Cutwail Spam Campaign Uses Steganography to Distribute URLZone",https://www.crowdstrike.com/blog/cutwail-spam-campaign-uses-steganography-to-distribute-urlzone/
 Wkysol,TODO,TODO,TODO,TODO
 Wolf Spider,TODO,TODO,TODO,TODO
